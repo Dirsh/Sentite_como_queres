@@ -226,7 +226,7 @@ display:block;
     width: 100%;
     min-width: 140px;
     height: 40px;
-    margin-top: -19%;
+    margin-top: -18%;
 }
 
 .texto-formas-de-pago {
@@ -273,21 +273,21 @@ display:block;
 
 .icono-pagofacil-formas-de-pago{
     width: 6%;
-    margin-top: -22.5%;
+    margin-top: -20.5%;
     margin-left: 91%;
     position: absolute;
 }
 
 .icono-tarjeta-cabal-formas-de-pago{
     width: 8%;
-    margin-top: -25.9%;
+    margin-top: -24.9%;
     margin-left: 22%;
     position: absolute;
 }
 
 .icono-mercado-pago-formas-de-pago{
     width: 7%;
-    margin-top: -28.9%;
+    margin-top: -26.9%;
     margin-left: 69%;
     position: absolute;
 }
