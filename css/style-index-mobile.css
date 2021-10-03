@@ -220,6 +220,35 @@ display:block;
     position: absolute;
 }
 
+.box-redes-sociales {
+    background-color: #ffffff00;
+    width: 100%;
+    min-width: 140px;
+    height: 50px;
+    margin-top: -30%;
+    position: relative;
+}
+
+.icono-instagram {
+    width: 7%;
+    margin-left: 30%;
+    position: absolute;
+}
+
+.icono-facebook {
+    width: 15%;
+    margin-left: 40%;
+    margin-top: -4%;
+    position: absolute;
+}
+
+.icono-twitter {
+    width: 15%;
+    margin-left: 56%;
+    margin-top: -4%;
+    position: absolute;
+}
+
 
 .box-forma-de-pagos {
     background-color: #cecfce;

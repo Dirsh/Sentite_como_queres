@@ -217,6 +217,38 @@ display:block;
     position: absolute;
 }
 
+
+.box-redes-sociales {
+    background-color: #ffffff00;
+    width: 100%;
+    min-width: 140px;
+    height: 50px;
+    margin-top: -7%;
+    position: relative;
+}
+
+.icono-instagram {
+    width: 3%;
+    margin-left: 40%;
+    margin-top: 3%;
+    position: absolute;
+}
+
+.icono-facebook {
+    width: 7%;
+    margin-left: 43%;
+    margin-top: 0.9%;
+    position: absolute;
+}
+
+.icono-twitter {
+    width: 7%;
+    margin-left: 48%;
+    margin-top: 0.9%;
+    position: absolute;
+}
+
+
 .box-forma-de-pagos {
     background-color: #cecfce;
     width: 100%;
