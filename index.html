@@ -10,35 +10,28 @@
     <meta name="robots" content="index,follow"/>
     <title> Sentite como querés </title>
     <!-- El meta viewport permite a la pgina escalar en resolucion dependiendo del dispositivo-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximun-scale=1.0">
-    <link rel="stylesheet" href="./css/style-index.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link 
+    rel="stylesheet" 
+    href="./css/style-index-mobile.css" 
+    media="screen and (min-width: 300px)"/>
+    <link 
+    rel="stylesheet" 
+    href="./css/style-index-desktop.css" 
+    media="screen and (min-width: 800px)"/>    
  </head> 
  <body class="fondo-de-magina-de-inicio" background="./img/memphis-mini.png">
-    <section class="contenedor-logo-principal" >
-    
-    <div class="d-flex flex-column justify-content-center w-100 h-100">
-
-	<div class="d-flex flex-column justify-content-center align-items-center">
-	</div>
-</div>
-</div>
-
-    <header class="barra-de-arriba"></div>
-      <div class="barra-de-arriba-izquierda">
-        <img class="icono-principal" src="./img/logo-ecommerce.png">
-        <img class="vestite" src="./img/vestite.gif">
-        <p class="texto-debajo-de-icono-principal">Sentite como querés</p>       
+    <main class="conteiner">
+      <div class="header">
+        <div class="box-header-izquierda">
+          <img class="icono-principal" src="./img/logo-ecommerce.png">
+          <img class="vestite" src="./img/vestite.gif">
+        </div>
+        <div class="box-header-derecha">
+          <img class="chicas-con-diferentes-ropas" src="./img/chicas-con-diferentes-ropas.gif">
+        </div>
       </div>
-      <div class="barra-de-arriba-derecha">
-        <img class="chicas-con-diferentes-ropas" src="./img/chicas-con-diferentes-ropas.gif">
-
-      </div>  
-    </header> 
-      <section class="contenedor-logo-principal" >
-
-        <main>
-          <div class="barra-secciones-izquierda">
-    
+      <div class="box-navbar-secciones-izquierda">
             <nav>
               <UL>
                 <li class="var_nav">
@@ -114,17 +107,13 @@
                  </div>
                 </li>  
               </UL>
-            </nav>
-          </div>
-          <div class="contenedor-derecha">
-          <img class="icono-sombrero-sobre-logo" src="./img/icono-sombrero.png">
-          <img class="logo-pagina-principal" src="./img/logo-sin-icono.png">
-          </div>
-
-        </nav> 
-          </div>
-        </main>
-        <div class="conteiner-formas-de-pago">
+            </nav>    
+      </div>
+      <div class="box-central-derecha">
+        <img class="icono-sombrero-sobre-logo" src="./img/icono-sombrero.png">
+        <img class="logo-pagina-principal" src="./img/logo-sin-icono.png">
+      </div>
+      <div class="box-forma-de-pagos">
         <p class="texto-formas-de-pago">Formas de pago:</p>
         <form action="https://www.visa.com.ar/tu-visa/encontra-tu-tarjeta/credito.html">
           <button type="submit">                
@@ -165,12 +154,12 @@
           <button type="submit">   
             <img class="icono-mercado-pago-formas-de-pago" src="./img/icono-mercado-pago.png">
           </button>  
-        </form>            
-        </div>
-        
-    <footer>
-      <p class="Texto-del-footer">Todo el contenido en esta pagina web se obtuvo de diversas fuentes con el fin de demostrar los conocimientos del desarrollador, no hay fin comercial alguno.</p>    
-    </footer>
-   </section>   
+        </form>          
+      </div>
+      <div class="footer">
+        <p class="Texto-del-footer">Todo el contenido en esta pagina web se obtuvo de diversas fuentes con el fin de demostrar los conocimientos del desarrollador, no hay fin comercial alguno.</p> 
+      </div>
+      <div></div>
+    </main>
  </body>
 </html>        

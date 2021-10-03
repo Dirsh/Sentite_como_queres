@@ -1,0 +1,304 @@
+:root {
+    --color-1: #ffffff;
+    --color-2: #ffddd2;
+    --color-3: #f3cfc4;
+    --color-4: #00000067;
+}
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    transition-property: all;
+    transition-duration: .6s;
+    transition-timing-function: ease;
+  }
+  
+html {
+    font-size: 62.5%;}
+
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.header {
+    background-color: #fdfdfd00;
+    width: 100%;
+    min-width: 150px;
+    height: 150px;
+}
+
+.box-header-izquierda {
+    width: 50%;
+    min-width: 150px;
+    height: 150px;
+    border-bottom: 4px solid var(--color-3);
+    border-top: 4px solid var(--color-3);
+	background: linear-gradient(-25deg, #ffc8c8, #ffdcdc, #fcf8fa, #ffffff);
+	background-size: 400%;
+	animation: gradient 15s ease infinite;
+    position: absolute;
+}
+
+.chicas-con-diferentes-ropas {
+    width: 45%;
+    margin-top: 1.2%;
+    margin-left: 27%;
+}
+
+.box-header-derecha {
+    background-color: #ffffff;
+    width: 50%;
+    min-width: 150px;
+    height: 150px;
+    border-bottom: 4px solid var(--color-3);
+    border-top: 4px solid var(--color-3);
+	background: linear-gradient(-25deg, #ffffff, #fcf8fa, #ffdcdc, #ffc8c8);
+	background-size: 400%;
+	animation: gradient 15s ease infinite;
+    position: absolute;
+    margin-left: 50%;
+}
+
+.icono-principal {
+    width: 15%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+
+.vestite {
+    width: 19%;
+    margin-top: -18%;
+    margin-left: 77%;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.box-navbar-secciones-izquierda {
+    background-color: #8ce8ff00;
+    width: 15%;
+    min-width: 140px;
+    height: 560px;
+    margin-top: 5%;
+}
+
+
+ul
+{
+margin:0px;
+padding:0px;
+list-style-type:none;
+-webkit-backface-visibility: hidden; backface-visibility: hidden;  
+}
+.var_nav
+{
+position:relative;
+background:#ccc; 
+width:200px;
+height:60px;
+margin-bottom:5px;
+margin-top: 2%;
+}
+.link_bg
+{
+ width:20px;
+ height:60px;
+ position:absolute;
+ background:var(--color-2);
+ color:#fff;
+ z-index:2;
+}
+.link_bg i
+{
+ position:relative;
+}
+.link_title
+{
+position:absolute;
+width:100%;
+z-index:3;
+color:#fff;
+}
+.link_title:hover .icon
+{
+-webkit-transform:rotate(360deg);
+-moz-transform:rotate(360deg);
+-o-transform:rotate(360deg);
+-ms-transform:rotate(360deg);
+transform:rotate(360deg);  
+}
+.var_nav:hover .link_bg
+{
+width:100%;
+background:var(--color-2);
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+-ms-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;  
+}
+.var_nav:hover a
+{
+font-weight:bold;
+-webkit-transition:all .5s ease-in-out;
+-moz-transition:all .5s ease-in-out; 
+-o-transition:all .5s ease-in-out; 
+-ms-transition:all .5s ease-in-out;
+ transition:all .5s ease-in-out;  
+}
+.icon
+{
+position:relative;
+width:70px;
+height:70px;
+text-align:center;
+color:#fff;
+-webkit-transition:all .5s ease-in-out;
+-moz-transition:all .5s ease-in-out; 
+-o-transition:all .5s ease-in-out; 
+-ms-transition:all .5s ease-in-out;   
+float:left;
+transition:all .5s ease-in-out;   
+float:left;  
+}
+.icon i{top:22px;position:relative;}
+a{
+display:block;
+position:absolute;
+float:left;
+font-family:arial;
+color:#fff;
+text-decoration:none;
+width:100%;
+height:90px;
+text-align:center;
+font-size: 170%;
+}
+span
+{
+margin-top:25px;
+display:block;
+}
+
+.box-central-derecha {
+    background-color: #9debff00;
+    width: 84%;
+    min-width: 140px;
+    height: 540px;
+    margin-top: 5%;
+}
+
+.icono-sombrero-sobre-logo {
+    width: 6.6%;
+    margin-top: 12.5%;
+    margin-left: 42.1%;
+    position: absolute;
+}
+
+.logo-pagina-principal {
+    width: 55%;
+    margin-top: 9%;
+    margin-left: 14%;
+    position: absolute;
+}
+
+.box-forma-de-pagos {
+    background-color: #cecfce;
+    width: 100%;
+    min-width: 140px;
+    height: 30px;
+    margin-top: 0%;
+}
+
+.texto-formas-de-pago {
+    font-size: 160%;
+    font-weight: 600;
+    margin-top: 0.5%;
+    margin-left: 30%;
+}
+
+.icono-visa-formas-de-pago {
+    width: 3%;
+    margin-top: -2.7%;
+    margin-left: 38%;
+    position: absolute;
+}
+
+.icono-mastercard-formas-de-pago{
+    width: 2%;
+    margin-top: -2.7%;
+    margin-left: 41.8%;
+    position: absolute;
+}
+
+.icono-tarjeta-naranja-formas-de-pago{
+    width: 4%;
+    margin-top: -4.0%;
+    margin-left: 44.6%;
+    position: absolute;
+}
+
+.icono-tarjeta-american-express-formas-de-pago{
+    width: 3%;
+    margin-top: -5.1%;
+    margin-left: 49.8%;
+    position: absolute;
+}
+
+.icono-rapipago-formas-de-pago{
+    width: 4%;
+    margin-top: -4.8%;
+    margin-left: 53.8%;
+    position: absolute;
+}
+
+.icono-pagofacil-formas-de-pago{
+    width: 1.6%;
+    margin-top: -6.1%;
+    margin-left: 58.8%;
+    position: absolute;
+}
+
+.icono-tarjeta-cabal-formas-de-pago{
+    width: 3%;
+    margin-top: -7.6%;
+    margin-left: 60.8%;
+    position: absolute;
+}
+
+.icono-mercado-pago-formas-de-pago{
+    width: 2%;
+    margin-top: -7.8%;
+    margin-left: 64.2%;
+    position: absolute;
+}
+
+.footer {
+    background-color: var(--color-3);
+    width: 100%;
+    min-width: 140px;
+    height: 100px;
+    margin-top: 0%;
+}
+
+.Texto-del-footer {
+    font-size: 160%;
+    font-weight: 600;
+    margin-top: 2.6%;
+    margin-left: 13%;
+}
