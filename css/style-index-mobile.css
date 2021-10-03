@@ -46,7 +46,7 @@ html {
 
 .chicas-con-diferentes-ropas {
     width: 85%;
-    margin-top: 18.2%;
+    margin-top: 22.2%;
     margin-left: 12%;
 }
 
@@ -226,7 +226,7 @@ display:block;
     width: 100%;
     min-width: 140px;
     height: 30px;
-    margin-top: 0%;
+    margin-top: -30%;
 }
 
 .texto-formas-de-pago {
@@ -297,7 +297,7 @@ display:block;
     width: 100%;
     min-width: 140px;
     height: 100px;
-    margin-top: 0%;
+    margin-top: -22%;
 }
 
 .Texto-del-footer {
