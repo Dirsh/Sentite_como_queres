@@ -102,6 +102,7 @@ html {
     margin-top: 1%;
     margin-left: 1%;
     border: 1px solid rgb(0, 0, 0);
+    border-radius: 3%;
 }
 
 .texo-contenedor-categorias {
@@ -117,6 +118,7 @@ html {
     margin-top: 1%;
     margin-left: 1%;
     border: 1px solid black;
+    border-radius: 3%;
 }
 
 .contenedor-item1-foto {
@@ -128,6 +130,7 @@ html {
     margin-left: 1%;
     border: 1px solid rgb(0, 0, 0);
     position: absolute;
+    border-radius: 3%;
 }
 
 .remera-mujer {
@@ -137,13 +140,14 @@ html {
 
 .contenedor-cantidades {
     background-color: #ffffff;
-    width: 28%;
+    width: 31%;
     min-width: 80px;
     height: 40px;
     margin-top: 13%;
     margin-left: 36%;
     border: 1px solid rgb(0, 0, 0);
     position: absolute;
+    border-radius: 3%;
 }
 
 .texto-cantidades {
@@ -155,7 +159,7 @@ html {
 
 .input-cantidades {
     width: 1%;
-    min-width: 25px;
+    min-width: 29px;
     margin-top: 10%;
     margin-left: 67%;
     position: absolute;
@@ -170,6 +174,7 @@ html {
     margin-left: 70%;
     border: 1px solid rgb(0, 0, 0);
     position: absolute;
+    border-radius: 3%;
 }
 
 .input-precio {
@@ -189,6 +194,7 @@ html {
     margin-top: 1%;
     margin-left: 1%;
     border: 1px solid black;
+    border-radius: 3%;
 }
 
 .pantalon-mujer {
@@ -204,6 +210,7 @@ html {
     margin-top: 1%;
     margin-left: 1%;
     border: 1px solid black;
+    border-radius: 3%;
 }
 
 .collar-mujer{
@@ -219,6 +226,7 @@ html {
     margin-left: 68%;
     margin-top: 1%;
     border:1px solid #000000f5;
+    border-radius: 3%;
 }
 
 .input-subtotal {
@@ -236,7 +244,7 @@ html {
     margin-top: -5%;
     margin-left: 16.0%;
     position: absolute;
-    
+    border-radius: 3%;
 }
 
 .input-total {
