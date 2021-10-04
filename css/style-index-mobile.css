@@ -232,6 +232,7 @@ display:block;
 
 #myCanvas {
     display: block;
+    width: 15%;
 }
 
 #button {
@@ -241,7 +242,7 @@ display:block;
     text-transform: uppercase;
     padding: 7px 20px;
     width: 7px;
-    margin-left: 30%;
+    margin-left: 60%;
     margin-top: 90%;
     border-radius: 50px;
     color: white;
