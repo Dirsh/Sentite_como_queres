@@ -195,6 +195,7 @@ margin-top:25px;
 display:block;
 }
 
+
 .box-central-derecha {
     background-color: #9debff00;
     width: 84%;
@@ -264,59 +265,115 @@ display:block;
     margin-left: 30%;
 }
 
-.icono-visa-formas-de-pago {
+.box-visa {
+    background-color: rgba(238, 5, 5, 0);
     width: 3%;
-    margin-top: -2.7%;
+    height: 3%;
     margin-left: 38%;
+    margin-top: -2.2%;
     position: absolute;
 }
 
-.icono-mastercard-formas-de-pago{
-    width: 2%;
-    margin-top: -2.7%;
-    margin-left: 41.8%;
+.icono-visa-formas-de-pago {
+    width: 90%;
+    margin-top: -10.8%;
+    margin-left: 10%;
+    position: absolute;
+}
+
+.box-mastercard {
+    background-color: rgba(238, 5, 5, 0);
+    width: 2.5%;
+    height: 3%;
+    margin-left: 42%;
+    margin-top: -2.0%;
+    position: absolute;
+}
+
+.icono-mastercard-formas-de-pago {
+    width: 90%;
+    margin-top: 0%;
+    margin-left: 0%;
+    position: absolute;
+}
+
+.box-tarjeta-naranja {
+    background-color: rgba(238, 5, 5, 0);
+    width: 3%;
+    height: 3%;
+    margin-left: 45%;
+    margin-top: -1.7%;
     position: absolute;
 }
 
 .icono-tarjeta-naranja-formas-de-pago{
-    width: 4%;
-    margin-top: -4.0%;
-    margin-left: 44.6%;
+    width: 110%;
+    margin-top: -17.9%;
+    margin-left: 0%;
+    position: absolute;
+}
+
+.box-tarjeta-american-express {
+    background-color: rgba(238, 5, 5, 0);
+    width: 3%;
+    height: 3%;
+    margin-left: 48.7%;
+    margin-top: -2.2%;
     position: absolute;
 }
 
 .icono-tarjeta-american-express-formas-de-pago{
+    width: 100%;
+    margin-top: -15.6%;
+    margin-left: 0%;
+    position: absolute;
+}
+
+.box-rapipago {
+    background-color: rgba(238, 5, 5, 0);
     width: 3%;
-    margin-top: -5.1%;
-    margin-left: 49.8%;
+    height: 3%;
+    margin-left: 52.7%;
+    margin-top: -1.5%;
     position: absolute;
 }
 
 .icono-rapipago-formas-de-pago{
-    width: 4%;
-    margin-top: -4.8%;
-    margin-left: 53.8%;
+    width: 140%;
+    margin-top: -6.6%;
+    margin-left: 0%;
+    position: absolute;
+}
+
+.box-pagofacil {
+    background-color: rgba(238, 5, 5, 0);
+    width: 1.5%;
+    height: 3%;
+    margin-left: 57.7%;
+    margin-top: -1.7%;
     position: absolute;
 }
 
 .icono-pagofacil-formas-de-pago{
-    width: 1.6%;
-    margin-top: -6.1%;
-    margin-left: 58.8%;
+    width: 100%;
+    margin-top: -25.5%;
+    margin-left: 0%;
     position: absolute;
 }
 
-.icono-tarjeta-cabal-formas-de-pago{
-    width: 3%;
-    margin-top: -7.6%;
-    margin-left: 60.8%;
+.box-mercadopago {
+    background-color: rgba(238, 5, 5, 0);
+    width: 2%;
+    height: 3%;
+    margin-left: 60%;
+    margin-top: -1.7%;
     position: absolute;
 }
 
 .icono-mercado-pago-formas-de-pago{
-    width: 2%;
-    margin-top: -7.8%;
-    margin-left: 64.2%;
+    width: 100%;
+    margin-top: -27.9%;
+    margin-left: 0%;
     position: absolute;
 }
 
