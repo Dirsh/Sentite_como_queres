@@ -48,15 +48,18 @@ html {
 .box-gif-chicas-con-ropas-diferentes {
     background-color: #e20b0b00;
     width: 50%;
-    height: 90%;
+    height: 100%;
     margin-left: 30%;
-    margin-top: -1%;
+    margin-bottom: 0%;
+    margin-top: -11.7%;
+    position: absolute;
 }
 
 .chicas-con-diferentes-ropas {
     width: 80%;
-    margin-top: 0%;
+    margin-bottom: 0%;
     margin-left: 0%;
+    position: absolute;
 }
 
 .box-header-derecha {
@@ -275,9 +278,14 @@ outline: 0 !important;
     } 
 }
 
+.form-box-carrito {
+    background-color: #ff4f0900;
+    width: 40%;
+}
+
 .box-carrito {
-    margin-left: 66%;
-    margin-top: 23%;
+    margin-left: 73%;
+    margin-top: 26%;
     position: absolute;
 }
 
@@ -290,29 +298,29 @@ outline: 0 !important;
     background-color: #ffffff00;
     width: 100%;
     min-width: 140px;
-    height: 50px;
-    margin-top: -7%;
+    height: 60px;
+    margin-top: -0%;
     position: relative;
 }
 
 .icono-instagram {
-    width: 3%;
-    margin-left: 40%;
-    margin-top: 3%;
+    width: 2.8%;
+    margin-left: 39%;
+    margin-top: 0%;
     position: absolute;
 }
 
 .icono-facebook {
-    width: 7%;
+    width: 6%;
     margin-left: 43%;
-    margin-top: 0.9%;
+    margin-top: -2.3%;
     position: absolute;
 }
 
 .icono-twitter {
-    width: 7%;
-    margin-left: 48%;
-    margin-top: 0.9%;
+    width: 6%;
+    margin-left: 49%;
+    margin-top: -2.9%;
     position: absolute;
 }
 
@@ -456,6 +464,6 @@ outline: 0 !important;
     font-size: 160%;
     font-weight: 600;
     margin-top: 2.6%;
-    margin-left: 13%;
+    margin-left: 18%;
 }
 
