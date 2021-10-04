@@ -44,11 +44,20 @@ html {
     position: absolute;
 }
 
-.chicas-con-diferentes-ropas {
-    width: 85%;
-    margin-top: 18.2%;
-    margin-left: 12%;
+.box-gif-chicas-con-ropas-diferentes {
+    background-color: #e20b0b00;
+    width: 50%;
+    height: 90%;
+    margin-left: 30%;
+    margin-top: 6%;
 }
+
+.chicas-con-diferentes-ropas {
+    width: 200%;
+    margin-top: 22%;
+    margin-left: -50%;
+}
+
 
 .box-header-derecha {
     background-color: #ffffff;
