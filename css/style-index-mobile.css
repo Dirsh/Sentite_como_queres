@@ -48,14 +48,14 @@ html {
     background-color: #e20b0b00;
     width: 50%;
     height: 90%;
-    margin-left: 30%;
+    margin-left: 18%;
     margin-top: 4.5%;
 }
 
 .chicas-con-diferentes-ropas {
     width: 200%;
     margin-top: 22%;
-    margin-left: -50%;
+    margin-left: -35%;
 }
 
 
@@ -197,7 +197,8 @@ text-decoration:none;
 width:100%;
 height:70px;
 text-align:center;
-font-size: 110%;
+font-size: 119%;
+margin-left: 6%;
 }
 span
 {
@@ -304,14 +305,14 @@ outline: 0 !important;
 .icono-facebook {
     width: 15%;
     margin-left: 42%;
-    margin-top: -4%;
+    margin-top: -7%;
     position: absolute;
 }
 
 .icono-twitter {
     width: 15%;
-    margin-left: 56%;
-    margin-top: -4%;
+    margin-left: 57%;
+    margin-top: -10%;
     position: absolute;
 }
 
@@ -455,7 +456,7 @@ outline: 0 !important;
 .Texto-del-footer {
     font-size: 100%;
     font-weight: 600;
-    margin-top: 5.6%;
+    margin-top: 7.6%;
     margin-left: 3%;
 }
 
