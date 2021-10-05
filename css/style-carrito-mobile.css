@@ -206,7 +206,7 @@ html {
 }
 
 .pantalon-mujer {
-    width: 53%;
+    width: 50%;
     margin-left: 20%;
 }
 
@@ -222,7 +222,7 @@ html {
 }
 
 .collar-mujer{
-    width: 78%;
+    width: 75%;
     margin-left: 10%;
 }
 
@@ -240,8 +240,8 @@ html {
 .input-subtotal {
     width: 11%;
     min-width: 10px;
-    margin-top: -5.4%;
-    margin-left: 19.3%;
+    margin-top: -4.8%;
+    margin-left: 19.8%;
     position: absolute;
     
 }
@@ -249,16 +249,17 @@ html {
 .input-envio {
     width: 11%;
     min-width: 10px;
-    margin-top: -5.4%;
-    margin-left: 19.3%;
+    margin-top: -4.8%;
+    margin-left: 19.8%;
     position: absolute;
+    
 }
 
 .input-total {
     width: 11%;
     min-width: 10px;
-    margin-top: -5.4%;
-    margin-left: 19.3%;
+    margin-top: -4.8%;
+    margin-left: 19.8%;
     position: absolute;
 }
 
