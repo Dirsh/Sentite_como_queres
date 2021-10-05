@@ -228,10 +228,10 @@ html {
 
 .box-precio-subtotal {
     background-color: #ffd6d6a1;
-    width: 30%;
+    width: 33%;
     min-width: 100px;
     height: 5%;
-    margin-left: 68%;
+    margin-left: 65%;
     margin-top: 1%;
     border:1px solid #000000f5;
     border-radius: 3%;
@@ -240,8 +240,8 @@ html {
 .input-subtotal {
     width: 11%;
     min-width: 10px;
-    margin-top: -4.6%;
-    margin-left: 16.3%;
+    margin-top: -5.4%;
+    margin-left: 19.3%;
     position: absolute;
     
 }
@@ -249,16 +249,16 @@ html {
 .input-envio {
     width: 11%;
     min-width: 10px;
-    margin-top: -4.6%;
-    margin-left: 16.3%;
+    margin-top: -5.4%;
+    margin-left: 19.3%;
     position: absolute;
 }
 
 .input-total {
     width: 11%;
     min-width: 10px;
-    margin-top: -4.6%;
-    margin-left: 16.3%;
+    margin-top: -5.4%;
+    margin-left: 19.3%;
     position: absolute;
 }
 
