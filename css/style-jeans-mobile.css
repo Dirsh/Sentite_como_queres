@@ -65,6 +65,13 @@ html {
     margin-left: 50%;
 }
 
+.descuento-gif {
+    width: 60%;
+    margin-top: 12%;
+    margin-left: 20%;
+    border-radius: 10%;
+}
+
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
@@ -220,6 +227,18 @@ display:block;
     margin-left: 17%;
 }
 
+.precio-item-1 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top: 9%;
+    margin-left: 24%;
+}
+
 .marco-item2{
     background-color: #ffffff;
     width: 5%;
@@ -235,6 +254,19 @@ display:block;
 .imagen-jeans-2 {
     width: 68%;
     margin-left: 17%;
+}
+
+.precio-item-2 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top: -4%;
+    margin-left: 24%;
+    position:absolute;
 }
 
 .marco-item3{
@@ -396,6 +428,48 @@ display:block;
     margin-top: 0%;
 }
 
+.marco-item11{
+    background-color: #ffffff;
+    width: 5%;
+    min-width: 80px;
+    height: 3%;
+    margin-top: 67%;
+    min-height: 100px;
+    margin-left: 75%;
+    border: 2px solid black;
+    position: absolute;
+}
+
+
+.imagen-jeans-11 {
+    width: 100%;
+    min-width: 80px;
+    height: 100%;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+
+.marco-item12{
+    background-color: #ffffff;
+    width: 5%;
+    min-width: 80px;
+    height: 3%;
+    margin-top: 67%;
+    min-height: 100px;
+    margin-left: 45%;
+    border: 2px solid black;
+    position: absolute;
+}
+
+
+.imagen-jeans-12 {
+    width: 100%;
+    min-width: 80px;
+    height: 100%;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+
 .box-gif-colores-propaganda-jeans {
     background-color: #b6985f34;
     width: 5%;
@@ -403,7 +477,7 @@ display:block;
     height: 3%;
     min-height: 140px;
     margin-left: 45%;
-    margin-top: 73%;
+    margin-top: 120%;
 }
 
 .box-ilustracion-moda {
@@ -413,7 +487,7 @@ display:block;
     height: 3%;
     min-height: 30px;
     margin-left: 0%;
-    margin-top: -80%;
+    margin-top: -120%;
 }
 
 .gif-jeans {
@@ -433,61 +507,29 @@ display:block;
     width: 10%;
     min-width: 140px;
     height: 250px;
-    margin-top: 0%;
+    margin-top: 130%;
     position: absolute;
 }
 
 .icono-instagram {
-    width: 27%;
-    margin-left: 10.9%;
-    margin-top: 90%;
+    width: 20%;
+    margin-left: 15.0%;
+    margin-top: 70%;
     position: absolute;
 }
 
 .icono-facebook {
-    width: 57%;
-    margin-left: -3.8%;
-    margin-top: 35%;
-    position: absolute;
-}
-
-.icono-twitter {
-    width: 57%;
-    margin-left: -3.8%;
-    margin-top: -5%;
-    position: absolute;
-}
-
-
-
-.box-redes-sociales {
-    background-color: #e9161600;
-    width: 10%;
-    min-width: 140px;
-    height: 250px;
-    margin-top: 5%;
-    position: relative;
-}
-
-.icono-instagram {
-    width: 12%;
-    margin-left: 3.9%;
-    margin-top: 77%;
-    position: fixed;
-}
-
-.icono-facebook {
-    width: 27%;
-    margin-left: -3.8%;
+    width: 40%;
+    margin-left: 5.0%;
     margin-top: 80%;
-    position: fixed;
+    position: absolute;
 }
 
 .icono-twitter {
-    width: 27%;
-    margin-left: -3.8%;
-    margin-top: 90%;
-    position: fixed;
+    width: 40%;
+    margin-left: 5.0%;
+    margin-top: 98%;
+    position: absolute;
 }
 
 
@@ -625,15 +667,16 @@ display:block;
     width: 100%;
     min-width: 140px;
     height: 110px;
-    margin-top: 120%;
+    margin-top: 190%;
+    margin-left: -1%;
     position: absolute;
 }
 
 .Texto-del-footer {
-    font-size: 100%;
+    font-size: 110%;
     font-weight: 600;
     margin-top: 10%;
-    margin-left: 0%;
+    margin-left: 5%;
     position: relative;
 }
 
