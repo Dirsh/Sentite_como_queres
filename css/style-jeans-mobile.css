@@ -286,6 +286,19 @@ display:block;
     margin-left: 17%;
 }
 
+.precio-item-3 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top: -4%;
+    margin-left: 24%;
+    position:absolute;
+}
+
 .marco-item4{
     background-color: #ffffff;
     width: 5%;
@@ -302,6 +315,20 @@ display:block;
     width: 63.6%;
     margin-left: 17%;
 }
+
+.precio-item-4 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top: 4%;
+    margin-left: 24%;
+    position:absolute;
+}
+
 
 .marco-item5{
     background-color: #ffffff;
@@ -320,6 +347,19 @@ display:block;
     margin-left: 26%;
 }
 
+.precio-item-5 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top:10%;
+    margin-left: 24%;
+    position:absolute;
+}
+
 .marco-item6{
     background-color: #ffffff;
     width: 5%;
@@ -335,6 +375,20 @@ display:block;
 .imagen-jeans-6 {
     width: 90%;
     margin-left: 2%;
+}
+
+
+.precio-item-6 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top:10%;
+    margin-left: 24%;
+    position:absolute;
 }
 
 .box-gif-propaganda-jeans {
@@ -367,6 +421,19 @@ display:block;
     margin-left: -0.3%;
 }
 
+.precio-item-7 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top:10%;
+    margin-left: 24%;
+    position:absolute;
+}
+
 .marco-item8 {
     background-color: #ffffff;
     width: 5%;
@@ -387,6 +454,20 @@ display:block;
     margin-top: -6%;
 }
 
+
+.precio-item-8 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top:10%;
+    margin-left: 24%;
+    position:absolute;
+}
+
 .marco-item9 {
     background-color: #ffffff;
     width: 5%;
@@ -405,6 +486,19 @@ display:block;
     height: 100%;
     margin-left: 3%;
     margin-top: 0%;
+}
+
+.precio-item-9 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top:10%;
+    margin-left: 24%;
+    position:absolute;
 }
 
 .marco-item10{
@@ -428,6 +522,19 @@ display:block;
     margin-top: 0%;
 }
 
+.precio-item-10 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top:10%;
+    margin-left: 24%;
+    position:absolute;
+}
+
 .marco-item11{
     background-color: #ffffff;
     width: 5%;
@@ -449,6 +556,19 @@ display:block;
     margin-top: 0%;
 }
 
+.precio-item-11 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top:10%;
+    margin-left: 24%;
+    position:absolute;
+}
+
 .marco-item12{
     background-color: #ffffff;
     width: 5%;
@@ -468,6 +588,19 @@ display:block;
     height: 100%;
     margin-left: 0%;
     margin-top: 0%;
+}
+
+.precio-item-12 {
+    background-color: #fcbfbf67;
+    border-radius: 5%;
+    border: 1px solid black;
+    width: 55%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 140%;
+    margin-top:10%;
+    margin-left: 24%;
+    position:absolute;
 }
 
 .box-gif-colores-propaganda-jeans {

@@ -134,7 +134,7 @@ html {
 }
 
 .remera-mujer {
-    width: 107%;
+    width: 100%;
     margin-left: -3%;
 }
 
@@ -178,10 +178,12 @@ html {
 }
 
 .input-precio {
-    width: 80%;
+    width: 90%;
     min-width: 10px;
-    margin-top: 6%;
-    margin-left: 10%;
+    height: 10%;
+    min-height: 23px;
+    margin-top: 3%;
+    margin-left: 2%;
     position: absolute;
 } 
 
@@ -232,8 +234,8 @@ html {
 .input-subtotal {
     width: 11%;
     min-width: 10px;
-    margin-top: -5%;
-    margin-left: 16.0%;
+    margin-top: -4.6%;
+    margin-left: 16.3%;
     position: absolute;
     
 }
@@ -241,18 +243,17 @@ html {
 .input-envio {
     width: 11%;
     min-width: 10px;
-    margin-top: -5%;
-    margin-left: 16.0%;
+    margin-top: -4.6%;
+    margin-left: 16.3%;
     position: absolute;
-    border-radius: 3%;
 }
 
 .input-total {
     width: 11%;
     min-width: 10px;
-    margin-top: -5%;
-    margin-left: 16.0%;
-    position: absolute;   
+    margin-top: -4.6%;
+    margin-left: 16.3%;
+    position: absolute;
 }
 
 .texto-subtotal {
@@ -385,7 +386,7 @@ html {
 
 .icono-rapipago-formas-de-pago{
     width: 140%;
-    margin-top: -6.6%;
+    margin-top: -10.6%;
     margin-left: 0%;
     position: absolute;
 }
@@ -408,7 +409,7 @@ html {
 
 .box-mercadopago {
     width: 12%;
-    margin-top: 24.5%;
+    margin-top: 20.5%;
     margin-left: 47%;
     position: absolute;
 }
