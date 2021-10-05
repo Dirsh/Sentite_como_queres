@@ -182,7 +182,7 @@ html {
 .input-precio {
     width: 80%;
     min-width: 10px;
-    margin-top: 6%;
+    margin-top: 1%;
     margin-left: 10%;
     position: absolute;
 } 
@@ -309,7 +309,7 @@ html {
     font-size: 150%;
     font-weight: 600;
     margin-top: 2.5%;
-    margin-left: 27%;
+    margin-left: 37%;
 }
 
 .box-visa {
