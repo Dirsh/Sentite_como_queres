@@ -73,12 +73,18 @@ html {
     margin-left: 50%;
 }
 
+.boton-icono-principal {
+    background-color: #fdfdfd00;
+    border: 0px;
+}
 
 .icono-principal {
-    width: 43%;
-    margin-top: 6%;
-    margin-left: 2%;
+    width: 36%;
+    width: 70px;
+    margin-top: 30%;
+    margin-left: 9%;
 }
+
 
 
 .vestite {

@@ -77,11 +77,16 @@ html {
 }
 
 
+.boton-icono-principal {
+    background-color: #fdfdfd00;
+    border: 0px;
+}
 
 .icono-principal {
-    width: 15%;
-    margin-top: 2%;
-    margin-left: 2%;
+    width: 28%;
+    min-width: 60px;
+    margin-top: 0%;
+    margin-left: -70%;
 }
 
 

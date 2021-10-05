@@ -77,11 +77,17 @@ html {
 }
 
 .icono-principal {
-    width: 13%;
-    margin-top: -1%;
-    margin-left: 2%;
+    width: 23%;
+    min-width: 60px;
+    margin-top: 0%;
+    margin-left: -70%;
 }
 
+.vestite {
+    width: 17%;
+    margin-top: -15%;
+    margin-left: 77%;
+}
 
 
 .box-central {

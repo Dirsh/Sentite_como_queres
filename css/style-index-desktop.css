@@ -77,13 +77,17 @@ html {
 }
 
 
-
-.icono-principal {
-    width: 12%;
-    margin-top: 2%;
-    margin-left: 2%;
+.boton-icono-principal {
+    background-color: #fdfdfd00;
+    border: 0px;
 }
 
+.icono-principal {
+    width: 28%;
+    min-width: 60px;
+    margin-top: 0%;
+    margin-left: -70%;
+}
 
 .vestite {
     width: 17%;

@@ -76,12 +76,17 @@ html {
 	}
 }
 
-.icono-principal {
-    width: 13%;
-    margin-top: -1%;
-    margin-left: 2%;
+.boton-icono-principal {
+    background-color: #fdfdfd00;
+    border: 0px;
 }
 
+.icono-principal {
+    width: 24%;
+    min-width: 60px;
+    margin-top: -1%;
+    margin-left: -70%;
+}
 
 
 .box-central {
@@ -176,7 +181,7 @@ html {
 .input-precio {
     width: 80%;
     min-width: 10px;
-    margin-top: 6%;
+    margin-top: 1.5%;
     margin-left: 10%;
     position: absolute;
 } 
@@ -225,7 +230,7 @@ html {
 .input-subtotal {
     width: 5%;
     min-width: 10px;
-    margin-top: -0.9%;
+    margin-top: -1.25%;
     margin-left: 7%;
     position: absolute;
     
@@ -234,7 +239,7 @@ html {
 .input-envio {
     width: 5%;
     min-width: 10px;
-    margin-top: -1.2%;
+    margin-top: -1.25%;
     margin-left: 7%;
     position: absolute;
     
@@ -243,10 +248,10 @@ html {
 .input-total {
     width: 5%;
     min-width: 10px;
-    margin-top: -1.2%;
+    margin-top: -1.25%;
     margin-left: 7%;
     position: absolute;
-     
+    
 }
 
 .texto-subtotal {

@@ -44,11 +44,17 @@ html {
     position: absolute;
 }
 
+
+.boton-icono-principal {
+    background-color: #fdfdfd00;
+    border: 0px;
+}
+
 .icono-principal {
-    width: 39%;
-    margin-top: 11%;
-    margin-left: 16%;
-    position: absolute;
+    width: 36%;
+    width: 70px;
+    margin-top: 30%;
+    margin-left: 9%;
 }
 
 .box-header-derecha {
