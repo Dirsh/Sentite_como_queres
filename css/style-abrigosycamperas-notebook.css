@@ -416,11 +416,11 @@ display:block;
 
 .box-gif-propaganda-abrigosycamperas {
     background-color: #b6985f00;
-    width: 24%;
+    width: 15%;
     min-width: 90px;
     height: 3%;
-    min-height: 140px;
-    margin-left: -1%;
+    min-height: 100px;
+    margin-left: 4%;
     margin-top: 0%;
     position: absolute;
 }
@@ -642,11 +642,12 @@ display:block;
 }
 
 .gif-abrigosycamperas {
-    width: 50%;
+    width: 150%;
     min-width: 100px;
-    height: 300%;
+    height: 250%;
     min-height: 100px;
-    margin-left: 6%;
+    margin-left: -30%;
+    margin-top: 50%;
 }
 
 .box-ilustracion-moda {
